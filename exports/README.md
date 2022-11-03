@@ -14,7 +14,7 @@
 ====================================================================== 
 -->
 
-# Title
+# readme-generator
 
 ## Table of Contents
 1. [Description](#description)
@@ -26,24 +26,25 @@
 7. [Questions / Contact](#questions)
 
 ## Description
-this is a description of the project
+This project uses javascript to generate a README file for futurre projects using node.js and inquirer
 
 ## Installation
-installation instructions
+package.json is inculded in repo
 
 ## Usage
-personal use
+free to use
 
 ## License
-MIT
+Other
 
 ## Contributors
-contributors
+Kevin Kraiss
 
 ## Test Instructions
-test instructions
+
 
 ## Questions
 * [Email](mailto:example@gmail.com)
-* [Github](https://github.com)
+* [Github](https://github.com/kevinkraiss)
+* [Video](https://drive.google.com/file/d/1Hpf8sVqmI_KaFmdyBJ5VhyRXgCaOF3qR/view)
     
