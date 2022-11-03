@@ -58,8 +58,9 @@ ${contributions}
 ${testIns}
 
 ## Questions
-${email}
-${github}
+* [Email](mailto:${email})
+* [Github](${github})
+* [Video](https://drive.google.com/file/d/1Hpf8sVqmI_KaFmdyBJ5VhyRXgCaOF3qR/view)
     `
 }
 
