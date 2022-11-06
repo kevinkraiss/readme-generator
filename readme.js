@@ -29,6 +29,7 @@ const generateREADME = (data) => {
 -->
 
 # ${title}
+[![License]()
 
 ## Table of Contents
 1. [Description](#description)
